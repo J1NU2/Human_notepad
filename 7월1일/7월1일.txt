@@ -1,0 +1,38 @@
+Ctrl+,
+File > Preferences > Settings > Text Editor > Font > Font Family(D2Coding)
+
+
+Extensions(Ctrl+Shift+X)
+- Open in browser
+- vscode-icons
+
+Ctrl+/ : 한줄 주석처리
+
+HTML 브라우저 명령어 : Alt+B
+
+<head> 정보
+<body> 내용
+<title> 브라우저 이름(제목)
+
+<html lang="언어">
+국가표준(EUC-KR(윈도우표준), ANSI) : 한국어, 한 글자를 16비트로 표현
+웹표준(UTF-8(조합형)) : 초/중/종성 3바이트 8비트
+
+<!DOCTYPE html> : HTML5 문서 선언문
+<html> : 페이지 루트 요소
+<head> : 메타 정보
+<title> : 페이지(브라우저) 제목
+<body> : 본문, 컨텐츠 컨테이너
+<h1>~<h6> : 제목
+<p> : 문단
+
+margin : 여백
+width : 가로
+height : 세로
+
+git
+commit push pull
+동기화가 중요, push 이전에 pull로 양측 저장소 동기화
+Local <=> Remote(GitHub)
+
+git clone 코드URL 폴더명
