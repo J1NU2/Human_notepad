@@ -15,7 +15,7 @@
 - Ctrl + K Ctrl + S : 바로가기 단축키(Keyboard Shortcuts) 목록 보기
 
 <br>
-<span style="font-size: 17px;">: 기본 편집 단축키 :</span>
+<span style="font-size: 22px;">: 기본 편집 단축키 :</span>
 
 - Ctrl + X : (빈 곳 선택) 행 삭제
 - Ctrl + C : (빈 곳 선택) 행 복사
@@ -43,3 +43,19 @@
 - Ctrl + / : 주석 처리(토글)
 - Shift + Alt + A : 커서 위치 주석 처리(토글)
 - Alt + Z : 자동 줄바꿈(토글)
+
+<br>
+<span style="font-size: 22px;">: 네비게이션 단축키 :</span>
+
+- Ctrl + D : 다음 일치 항목 선택
+- Ctrl + T : 모든 기호 표시
+- Ctrl + Shift + O : (입력 시)기호로 이동
+- Ctrl + G : (입력 시)행 번호로 이동
+- Ctrl + P : 빠른 파일 열기
+- Ctrl + Shift + M : 문제 발생 패널 열기
+- F8 : 다음 오류or경고 이동
+- Shift + F8 : 이전 오류or경고 이동
+- Ctrl + Shift + Tab : 네비게이터 히스토리 이동
+- Alt + Left : 뒤로가기
+- Alt + Right : 앞으로가기
+- Ctrl + M : Tab Moves Focus 설정(토글)
