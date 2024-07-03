@@ -38,3 +38,41 @@ Javascript에서 동적인 요소를 조작하는데 사용된다.
 - CSS 및 Javascript에서 특정 요소의 스타일을 지정or선택하는 데 사용한다.
 - HTML 북마크를 만드는 데에도 사용한다.
 - Javascript인 getElementById()를 이용하여 특정 ID를 가진 요소를 액세스할 수 있다.
+
+HTML 아이프레임 : 웹 페이지 내에서 웹 페이지를 표시하는 것
+
+HTML 헤드 : 문서 제목, 문자 집합, 스타일, 스크립트 및 기타 메타 정보를 정의
+- 외부 파일을 link 형태로 불러와 사용 할 수 있다.
+- 뷰포트 : <meta name="viewport" content="width=device-width, initial-scale=1.0">
+> width=device-width : 페이지의 너비를 장치의 화면 너비에 맞게 설정(장치에 따라 다르다.)
+> initial-scale=1.0 : 브라우저가 페이지를 처음 로드할 때의 초기 확대/축소 레벨을 설정
+
+HTML 레이아웃
+- <header> : 문서 또는 섹션의 헤더를 정의
+- <nav> : 네비게이션, 웹 페이지 상단의 탐색 링크 세트를 정의
+- <section> : 문서의 섹션
+- <article> : 독립적이고 자체 포함되는 컨텐츠
+- <aside> : 콘텐츠 외의 콘텐츠(사이드바 등)
+- <footer> : 웹 페이지 하단의 바닥글
+- <details> : 사용자가 필요에 따라 열고 닫을 수 있는 추가 세부 정보
+- <summary> <details> : 요소의 제목
+
+HTML 레이아웃 기술
+1. CSS 프레임워크
+2. CSS float 속성
+3. CSS 플렉스박스
+4. CSS 그리드
+
+HTML 반응형 웹 디자인 : HTML과 CSS를 사용하여 웹 사이트의 크기를 자동으로 조정하고, 숨기고, 축소/확대하여 여러 기기에서 보기 좋게 만드는 것
+
+뷰포트 설정 : 반응형 웹 사이트를 만드려면 모든 웹 페이지에 해당 태그가 필요하다.
+- <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+반응형 이미지 : max-width : 사진을 원래 크기까지만 커지도록 설정
+> xs	extra small	(smart phone)
+> sm	small		(smart phone)
+> md	medium		(pad)
+> lg	large		(notebook)
+> xl	extra large	(desktop)
+반응형 텍스트 크기 : 단위(vw) : 1vw = 뷰포트너비1%, (예시)뷰포트너비50cm=1vw(0.5cm)
+
