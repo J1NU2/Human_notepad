@@ -70,3 +70,17 @@
 - Ctrl + D : 일치 항목을 선택
 - Ctrl + K Ctrl + D : 선택된 일치 항목 중 마지막 선택 항목으로 이동
 - Alt + C / R / W : 찾기 옵션 설정(토글) : C(대소문자) R(정규식) W(단어)
+
+<br>
+<span style="font-size: 22px;">: 다중 항목 선택 :</span>
+
+- Alt + Click : 커서 추가
+- Ctrl + U : 마지막 커서 작업 실행 취소
+- Ctrl + L : 현재 줄 선택
+- Ctrl + Shift + L : 일치 항목 모두 선택하여 커서 추가
+- Ctrl + F2 : 모든 항목 변경
+- Shift + Alt + Right : 선택 영역 확장
+- Shift + Alt + Left : 선택 영역 축소
+- Shift + Alt + (Mouse Drag) : 마우스로 영역 선택
+- Ctrl + Shift + Alt + (Arrow key) : 키보드로 영역 선택
+- Ctrl + Shift + Alt + PgUp / PgDn : 페이지 단위로 영역 선택
