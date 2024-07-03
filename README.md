@@ -59,3 +59,14 @@
 - Alt + Left : 뒤로가기
 - Alt + Right : 앞으로가기
 - Ctrl + M : Tab Moves Focus 설정(토글)
+
+<br>
+<span style="font-size: 22px;">: 찾기 단축키 :</span>
+
+- Ctrl + F : 찾기
+- Ctrl + H : 찾아바꾸기
+- F3 : 찾기(다음)
+- Shift + F3 : 찾기(이전)
+- Ctrl + D : 일치 항목을 선택
+- Ctrl + K Ctrl + D : 선택된 일치 항목 중 마지막 선택 항목으로 이동
+- Alt + C / R / W : 찾기 옵션 설정(토글) C(대소문자) R(정규식) W(단어)
