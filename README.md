@@ -84,3 +84,7 @@
 - Shift + Alt + (Mouse Drag) : 마우스로 영역 선택
 - Ctrl + Shift + Alt + (Arrow key) : 키보드로 영역 선택
 - Ctrl + Shift + Alt + PgUp / PgDn : 페이지 단위로 영역 선택
+
+<br>
+<span style="font-size: 22px;">: 다중 항목 선택 :</span>
+
