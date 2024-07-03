@@ -72,7 +72,7 @@
 - Alt + C / R / W : 찾기 옵션 설정(토글) : C(대소문자) R(정규식) W(단어)
 
 <br>
-<span style="font-size: 22px;">: 다중 항목 선택 :</span>
+<span style="font-size: 22px;">: 다중 항목 선택 단축키 :</span>
 
 - Alt + Click : 커서 추가
 - Ctrl + U : 마지막 커서 작업 실행 취소
@@ -85,6 +85,8 @@
 - Ctrl + Shift + Alt + (Arrow key) : 키보드로 영역 선택
 - Ctrl + Shift + Alt + PgUp / PgDn : 페이지 단위로 영역 선택
 
-<br>
-<span style="font-size: 22px;">: 다중 항목 선택 :</span>
 
+<br>
+<span style="font-size: 22px;">: 언어 편집 단축키 :</span>
+
+- 
