@@ -1,0 +1,40 @@
+HTML 목록
+<ul> : 순서없는 목록(비정렬)
+<ol> : 순서있는 목록(정렬)
+<dl> : 설명 목록
+- <dt> : 이름(제목)
+- <dd> : 내용
+
+HTML 블록
+일반적으로 많이 사용하는 블록
+- <p> : 문단 정의
+- <div> : 부분이나 섹션, 웹 개발 시 제일 많이 사용하는 태그
+- 전체 블록 요소 : <address> <article> <aside> <blockquote> <canvas> <dd> <div> <dl> <dt> <fieldset> <figcaption> <figure> <footer> <form> <h1>~<h6> <header> <hr> <li> <main> <nav> <noscript> <ol> <p> <pre> <section> <table> <tfoot> <ul> <video>
+
+block 태그 : 줄바꿈 O, 앞부터 시작 <div>
+in-line 태그 : 줄바꿈 X, 뒤부터 시작 <span>
+
+HTML 클래스
+tag
+id = "name"	→ Javascript가 동적인 동작을 위해 주로 사용
+class = "style"	→ CSS Style을 지정하기 위해 주로 사용
+name = "server"	→ 서버에서 데이터 교환을 위해 사용
+
+".클래스명"을 사용하면 자동으로 클래스명이 포함된 <div>태그가 생성된다.
+하나의 <div>에 2개 이상의 클래스가 지정될 수 있다.
+
+CSS Selector
+(예시) 	th 	→ tag
+	.class 	→ class이름
+	#id 	→ id이름
+
+HTML 아이디
+Javascript에서 동적인 요소를 조작하는데 사용된다.
+"tag#id이름"을 사용하면 자동으로 아이디명이 포함된 태그가 생성된다.
+
+요약
+- id는 HTML 요쇼에 대한 고유 ID를 지정한다. (클래스는 style)
+- HTML 문서 내에서 고유해야 한다.
+- CSS 및 Javascript에서 특정 요소의 스타일을 지정or선택하는 데 사용한다.
+- HTML 북마크를 만드는 데에도 사용한다.
+- Javascript인 getElementById()를 이용하여 특정 ID를 가진 요소를 액세스할 수 있다.
