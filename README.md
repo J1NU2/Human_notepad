@@ -89,4 +89,15 @@
 <br>
 <span style="font-size: 22px;">: 언어 편집 단축키 :</span>
 
-- 
+- Ctrl + Space : 코드 힌트
+- Ctrl + Shift + Space : 함수(메소드) 파라미터 제안
+- Shift + Alt + F : 문서 서식 지정
+- Ctrl + K Ctrl + F : 선택 영역 서식 지정
+- F12 : 정의로 이동, 정의된 코드 보기
+- Alt + F12 : 정의 피킹
+- Ctrl + K F12 : 측면에 정의 열기
+- Ctrl + . : 빠른 수정
+- Shift : F12 : 참조로 이동
+- F2 : 기호 이름 바꾸기
+- Ctrl + K Ctrl + X : 공백 자르기
+- Ctrl + K M : 언어 모드 변경
