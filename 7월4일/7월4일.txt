@@ -42,8 +42,41 @@ CSS Margin : 다른 요소와의 간격
 CSS Padding : 요소의 안쪽 간격
 위(top) 아래(bottom) 왼쪽(left) 오른쪽(right)
 
-약어
+Margin, Padding 개별 속성으로 지정할 경우
 - 속성에 4개 값이 있는 경우 : 위 오른 아래 왼
 - 속성에 3개 값이 있는 경우 : 위 오른/왼 아래
 - 속성에 2개 값이 있는 경우 : 위/아래 오른/왼
 - 속성에 1개 값이 있는 경우 : 위/오른/아래/왼
+
+CSS Text Alignment : 텍스트 정렬
+- text-align : 수평 정렬
+- text-align-last : 마지막 줄 정렬
+- direction, unicode-bidi : 텍스트 방향 변경
+- vertical-align : 수직 정렬
+
+CSS Font : 글꼴
+- 세리프, 산세리프 글꼴 : 컴퓨터 화면에서는 세리프 글꼴보다 산세리프 글꼴이 읽기 더 쉽다.
+
+Font Size : 글자 크기
+- 크기 미지정 시 문단과 같은 일반 텍스트의 기본 크기 16px=1em
+- px 대신 em 사용을 추천
+- em은 소수점 단위로 크기 조절 가능
+- em 계산식 : em = px/16
+- 반응형 글꼴로 표기하고 싶다면 vw 사용, 1vw=뷰포트 너비의 1%
+
+CSS Link : 링크
+- 밑줄 있는 텍스트, 텍스트, 버튼 등의 링크로 스타일 지정 가능
+- 링크 상태
+> a:link : 일반적인 방문하지 않은 링크 상태
+> a:visited : 사용자가 방문한 링크 상태
+> a:hover : 사용자가 마우스를 올렸을 때 링크 상태
+> a:active : 클릭하는 순간의 링크 상태
+- text-decoration : 링크의 밑줄 On/Off
+
+CSS List Style : 목록 스타일
+- list-style-type : 목록 마커의 유형 지정
+> circle : 순서없는 목록 유형, 빈 도형
+> square : 순서없는 목록 유형, 도형
+> upper-roman : 정렬된 목록 유형, 로마 숫자
+> lower-alpha : 정렬된 목록 유형, 영어(abc)
+- list-style-image : 목록 마커를 이미지로 지정
