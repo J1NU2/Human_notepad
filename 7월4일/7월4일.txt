@@ -36,7 +36,9 @@ opacity : 불투명도
 
 CSS Border : 테두리
 종류 : dotted, dashed, solid, double, groove, ridge, inset, none, hidden, mix
-- 크기, 색상, 상하좌우 설정, 둥글게 설정
+- 크기, 색상, 상하좌우 설정
+- border : 크기 종류 색상
+- border-radius : 둥글게 설정
 
 CSS Margin : 다른 요소와의 간격
 CSS Padding : 요소의 안쪽 간격
