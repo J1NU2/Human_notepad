@@ -1,0 +1,49 @@
+CSS : Cascading Style Sheets
+- HTML 요소가 표시되는 방식
+- 여러개의 웹 페이지 레이아웃을 한 번에 제어 가능
+- 외부 스타일 시트는 CSS 파일에 저장
+
+CSS 구문
+- Selector
+tag명
+.class명
+#id명
+- 내용 Declaration { }
+- 속성명: 속성값; (예시) color:blue;
+→ Selector { Property: Value; }
+
+CSS Selectors
+- 간단 : 이름, ID, 클래스 = tag명, #id명, .class명
+(예시)
+#main > div:nth-child(3) > a.w3-right.w3-btn
+#main > div:nth-child(15) > a
+
+a, b	a 또는 b
+a b	b는 a의 자손
+a > b	b는 a의 자식
+
+외부, 내부, 인라인 CSS
+우선도 : 외부 < 내부 < 인라인
+
+CSS 색상 : 색상이름(Red,Blue) / HEX(#ff0000) / RGB(rgb(255,0,0))
+
+background-color : 배경색
+background-image : 배경이미지
+background-repeat : 배경 이미지 반복
+background-position : 배경 이미지 위치
+background-attachment : 배경 이미지 스크롤
+opacity : 불투명도
+
+CSS Border : 테두리
+종류 : dotted, dashed, solid, double, groove, ridge, inset, none, hidden, mix
+- 크기, 색상, 상하좌우 설정, 둥글게 설정
+
+CSS Margin : 다른 요소와의 간격
+CSS Padding : 요소의 안쪽 간격
+위(top) 아래(bottom) 왼쪽(left) 오른쪽(right)
+
+약어
+- 속성에 4개 값이 있는 경우 : 위 오른 아래 왼
+- 속성에 3개 값이 있는 경우 : 위 오른/왼 아래
+- 속성에 2개 값이 있는 경우 : 위/아래 오른/왼
+- 속성에 1개 값이 있는 경우 : 위/오른/아래/왼
