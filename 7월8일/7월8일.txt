@@ -1,0 +1,17 @@
+CSS Navigation Bar
+- <ul> <li> 태그로 만드는 것이 보통
+- list-style-type, margin, padding 설정으로 글머리 기호, 여백 및 패딩 제거하고 사용하면 좋다
+- 수직으로 만들고 싶다면 display:block; 사용
+- 수평으로 만들고 싶다면 display:inline; 사용
+- 고정 시 position:fixed; 사용
+- 스크롤 고정 시 position:sticky; 사용
+
+CSS Dropdown
+- inline-block : 요소에 너비와 높이를 허용
+
+웹사이트 레이아웃 구성
+- Header / Navigation Menu / Content / Footer
+
+CSS Unit : 길이를 표현하는 단위
+- 절대 길이 : cm mm in px* pt pc
+- 상대 길이 : em ex ch rem vw vh vmin vmax %
