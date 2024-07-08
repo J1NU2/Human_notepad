@@ -15,3 +15,41 @@ CSS Dropdown
 CSS Unit : 길이를 표현하는 단위
 - 절대 길이 : cm mm in px* pt pc
 - 상대 길이 : em ex ch rem vw vh vmin vmax %
+
+.min 파일 : 1줄로 쓰여진 파일(보통 사람이 읽기 힘듦)
+
+Bootstrap 5
+- 빠르고 쉬운 웹 개발을 위한 무료 Frontend 프레임워크
+- 반응형 디자인을 쉽게 만들 수 있게 해준다
+- typography, form, button, table, navigation, modal, carousel 등
+
+Bootstrap 5 Container
+- .container : 반응형 고정 너비 컨테이너
+- .container-fluid : 뷰포트 전체 너비에 걸친 전체 너비 컨테이너
+- .container-sm/md/lg/xl/xxl : 컨테이너가 언제 반응해야하는지 설정(크기/뷰포트)
+
+Bootstrap 5 Grids
+- .col-(매우 작은 기기 - 화면 너비가 576px 미만)
+- .col-sm-(소형 기기 - 화면 너비가 576px 이상)
+- .col-md-(중간 장치 - 화면 너비가 768px 이상)
+- .col-lg-(대형 기기 - 화면 너비가 992px 이상)
+- .col-xl-(대형 기기 - 화면 너비가 1200px 이상)
+- .col-xxl-(xxlarge 장치 - 화면 너비가 1400px 이상)
+- 항상 사용 시 row > col 사용
+
+Bootstrap 5 Typography
+- 기본값 : font-size(1rem=16px) line-height(1.5)
+
+Bootstrap 5 Color
+- 텍스트 색상(.text-) : muted, primary, success, info, warning, danger, secondary, white, dark, body, light
+- .text-색상-숫자 표기로 불투명도 설정 가능
+- 배경색(.bg-) : primary, success, info, warning, danger, secondary, dark, light
+- 텍스트+배경색을 적절한 색상으로 자동으로 처리하고 싶다면 .text-bg-color
+
+Bootstrap 5 Table
+- .table : 기본 스타일 테이블 <tr><td>
+- .table-dark : 검정 스타일 테이블
+- .table-striped : 얼룩말 무늬 추가
+- .table-bordered : 테두리 추가
+- .table-borderless : 테두리가 없는 테이블
+- .table-hover : 마우스를 올리면 배경 색 변경(호버효과)
