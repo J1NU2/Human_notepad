@@ -101,3 +101,15 @@
 - F2 : 기호 이름 바꾸기
 - Ctrl + K Ctrl + X : 공백 자르기
 - Ctrl + K M : 언어 모드 변경
+
+<br>
+<span style="font-size: 22px;">: 편집 관리 단축키 :</span>
+
+- Ctrl + F4, Ctrl + W : 편집 화면 닫기
+- Ctrl + K F : 폴더 화면 닫기
+- Ctrl + \ : 화면 분할
+- Ctrl + 1 / 2 / 3 : 분할된 화면 이동
+- Ctrl + K Ctrl + Left : 분할된 화면 이동 이전
+- Ctrl + K Ctrl + Right : 분할된 화면 이동 다음
+- Ctrl + Shift + PgUp / PgDn : 편집 화면 탭 이동
+- Ctrl + K Left / Right : 편집 그룹 이동
