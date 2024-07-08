@@ -113,3 +113,21 @@
 - Ctrl + K Ctrl + Right : 분할된 화면 이동 다음
 - Ctrl + Shift + PgUp / PgDn : 편집 화면 탭 이동
 - Ctrl + K Left / Right : 편집 그룹 이동
+
+<br>
+<span style="font-size: 22px;">: 파일 관리 단축키 :</span>
+
+- Ctrl + N : 새 파일 새 탭에 열기
+- Ctrl + O : 파일 열기
+- Ctrl + S : 저장하기
+- Ctrl + Shift + S : 새 이름으로 저장
+- Ctrl + K S : 모두 저장하기
+- Ctrl + F4 : 파일 닫기
+- Ctrl + K W : 모든 파일 닫기
+- Ctrl + Shift + T : 닫은 편집기 다시 열기
+- Ctrl + K Enter : 계속 열기
+- Ctrl + Tab : 다음 열기
+- Ctrl + Shift + Tab : 이전 열기
+- Ctrl + K P : 활성 파일의 경로 복사
+- Ctrl + K R : 현재 파일의 폴더 열기
+- Ctrl + K O : 현재 파일을 새 창에 열기
