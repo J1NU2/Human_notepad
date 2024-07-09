@@ -160,3 +160,13 @@
 - F10 : 디버그 단위 실행
 - Ctrl + K Ctrl + I : 디버그 가리키기 표시
 
+<br>
+<span style="font-size: 22px;">: 터미널 단축키 :</span>
+
+- Ctrl + ` : 터미널 열기
+- Ctrl + Shift + ` : 터미널 추가 열기
+- Ctrl + C : 선택 내용 복사하기
+- Ctrl + V : 터미널에 붙여넣기
+- Ctrl + Up / Down : 터미널 스크롤 이동
+- Shift + PgUp / PgDn : 터미널 스크롤 페이지 이동
+- Ctrl + Home / End : 터미널 처음/끝 이동
