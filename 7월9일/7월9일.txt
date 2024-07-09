@@ -65,3 +65,37 @@ Bootstrap 5 Navs : 네비게이션 바(.nav > .nav-item > .nav-link)
 - 폭(너비) 설정 : .nav-justified
 - Dropdown 설정 : <a> .nav-link .dropdown-toggle / data-bs-toggle="dropdown"
 - content 추가 : 링크 설정(href="#id") <div> .tab-content
+
+Bootstrap 5 Navbars : <nav>
+- 기본형 : <nav> <div> .container-fluid(꽉 찬 컨테이너) 안에 설정
+- 로고 : <a class="navbar-brand" href="#">내용</a>
+- nav 텍스트 삽입 : .navbar-text
+- nav 상/하단 고정 : <nav> .fixed-top/.fixed-bottom
+- 정해진 위치 고정 : .sticky-top
+
+Bootstrap 5 Carousel : 회전하는 이미지
+- 넘길 수 있는 버튼 : .carousel slide, data-bs-ride="carousel"
+> 넘길 수 있는 버튼 <div> .carousel-indicators
+> 이전 : .carousel-control-prev data-bs-target="#id" data-bs-slide="prev"
+<span class="carousel-control-prev-icon"></span>
+> 이후 : .carousel-control-next data-bs-target="#id" data-bs-slide="next"
+<span class="carousel-control-next-icon"></span>
+
+> id를 정해준 뒤 button에 data-bs-target="#id"
+- 캐러셀 내용 <div> .carousel-inner
+> 이미지 추가 : .carousel-item
+> 이미지 내 텍스트 추가 : .carousel-caption
+
+Bootstrap 5 Modal : 현재 페이지의 새로운 팝업 창
+- 모달 버튼 : <button> data-bs-toggle="modal" data-bs-target="#id명"
+- 모달 : .modal id="id명"
+> 모달의 전체 컨텐츠 <div> .modal-dialog .modal-content
+> 헤드 : .modal-header
+> 본문 : .modal-body
+> 바닥글 : .modal-footer
+
+Bootstrap 5 Offcanvas : 사이드바
+- 사이드바 : <div> .offcanvas offcanvas-start id="id명"
+> 헤드 : .offcanvas-header
+> 본문 : .offcanvas-body
+- 사이드바 버튼 : <button> type="button" data-bs-toggle="offcanvas" data-bs-target="#id명"
