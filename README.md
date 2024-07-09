@@ -150,3 +150,13 @@
 - Ctrl + K V : 우측화면 마크다운 미리보기 열기
 - Ctrl + K Z : 젠 모드 (Esc : 모드 해제)
 
+<br>
+<span style="font-size: 22px;">: 디버그 단축키 :</span>
+
+- F9 : 중단점 설정 토글키
+- F5 : 디버깅 시작
+- Shift + F5 : 디버그 중지
+- F11 / Shift + F11 : 단계 정보 / 단계 출력
+- F10 : 디버그 단위 실행
+- Ctrl + K Ctrl + I : 디버그 가리키기 표시
+
