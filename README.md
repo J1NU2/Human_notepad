@@ -131,3 +131,22 @@
 - Ctrl + K P : 활성 파일의 경로 복사
 - Ctrl + K R : 현재 파일의 폴더 열기
 - Ctrl + K O : 현재 파일을 새 창에 열기
+
+<br>
+<span style="font-size: 22px;">: 디스플레이 단축키 :</span>
+
+- F11 : 전체 화면
+- Shift + Alt + 0 : 편집기 레이아웃 설정/해제
+- Ctrl + = / - : 보기 확대/축소
+- Ctrl + B : 사이드바 표시/숨김
+- Ctrl + Shift + E : Explorer 보기
+- Ctrl + Shift + F : Search 보기
+- Ctrl + Shift + G : Source Control 보기
+- Ctrl + Shift + D : Run and Debug 보기
+- Ctrl + Shift + X : Extensions 보기
+- Ctrl + Shift + H : Search 찾아바꾸기 보기
+- Ctrl + Shift + U : Output 보기
+- Ctrl + Shift + V : 마크다운 미리보기 열기
+- Ctrl + K V : 우측화면 마크다운 미리보기 열기
+- Ctrl + K Z : 젠 모드 (Esc : 모드 해제)
+
