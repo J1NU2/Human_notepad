@@ -48,3 +48,20 @@ Bootstrap 5 Cards : 카드(.card .card-body)
 - 다른 형태 : .card-title .card-text .card-link
 - 이미지 : 상단(.card-img-top) 하단(.card-img-bottom)
 - 이미지 내 텍스트 : .card-img-overlay
+
+Bootstrap 5 Dropdowns : 드롭다운(.dropdown)
+<ul> .dropdown-menu, <li> .dropdown-item
+- 구분선 추가 : .dropdown-divider
+- 헤더 추가 : .dropdown-header
+- 활성 및 비활성 : .active / .disabled
+- 열리는 방향 설정 : 왼쪽(.dropdown-dropstart) 오른쪽(.dropdown-dropend) 위(.dropup)
+- 링크 및 텍스트 : <a> or <span> .dropdown-item-text
+
+Bootstrap 5 Navs : 네비게이션 바(.nav > .nav-item > .nav-link)
+- 중앙 정렬 : .justify-content-center
+- 끝 정렬 : .justify-content-end (기본=start)
+- 수직 정렬 : .flex-column
+- 모양 설정 : 탭(.nav-tabs) 알약(.nav-pills)
+- 폭(너비) 설정 : .nav-justified
+- Dropdown 설정 : <a> .nav-link .dropdown-toggle / data-bs-toggle="dropdown"
+- content 추가 : 링크 설정(href="#id") <div> .tab-content
