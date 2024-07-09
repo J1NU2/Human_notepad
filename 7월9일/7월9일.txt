@@ -1,0 +1,50 @@
+Bootstrap 5 Images : 이미지
+- 이미지 종류 : Rounded corner(사각형) Circle(원) Thumbnail(미리보기형)
+- 좌/우 정렬 : float-start float-end
+- 이미지 중앙 정렬 : mx-auto d-block
+
+Bootstrap 5 Alerts : 알림창(.alert-)
+- 색상 : success, info, warning, danger, primary, secondary, light, dark
+- 링크 지정 : .alert-link
+- 닫기 설정 : .alert-dismissible (버튼 지정 : .btn-close, 클릭 지정 .data-bs-dismiss="alert")
+- 닫기 설정 시 애니메이션 효과 : .fade .show
+
+Bootstrap 5 Buttons : 버튼(.btn btn-)
+- 색상 : primary, secondary, success, info, warning, danger, dark, light, link
+- 테두리만 있는 색상 : .btn-outline-
+- 크기 설정 : .btn-lg / .btn-sm
+- 한 줄 전체 : .d-grid .btn-block
+- 다중 버튼 공간 제어 : .gap-*
+- 버튼 활성 및 비활성 : .active / disabled
+- <div>로 여러 버튼 그룹화 : .btn-group
+- 그룹화 버튼 크기 설정 : .btn-group-lg .btn-group
+- 그룹화 버튼 수직 정렬 : .btn-group-vertical
+
+Bootstrap 5 Badges : 배지(.badge)
+- 둥근 테두리(알약형) : .rounded-pill
+
+Bootstrap 5 Progress Bars : 진행률(.progress .progress-bar)
+- 색상 설정 : .bg-color
+- 줄무늬 효과 : .progress-bar-striped
+- 애니메이션 효과 : .progress-bar-animated
+
+Bootstrap 5 Spinners : 기본형(버퍼링 : .spinner-border)
+- 색상 설정 : .text-color
+- 커지는 효과 : .spinner-grow
+
+Bootstrap 5 Pagination : 페이지 설정(.pagination) <ul> <li>
+- <ul>에 .pagination, <li>에 .page-item, 링크지정은 .page-link
+- 현재 페이지 표시 : .active 설정
+- 선택 불가능 : .disabled
+
+Bootstrap 5 List Groups : 목록
+- 기본형 : <ul>에 .list-group, <li>에 .list-group-item
+- 선택된 목록 : .active
+- 링크 지정 : <div> <a> .list-group-item-action
+- 선택 불가능 : .disabled
+
+Bootstrap 5 Cards : 카드(.card .card-body)
+- 제목 및 바닥글 : .car-header / .card-footer
+- 다른 형태 : .card-title .card-text .card-link
+- 이미지 : 상단(.card-img-top) 하단(.card-img-bottom)
+- 이미지 내 텍스트 : .card-img-overlay
