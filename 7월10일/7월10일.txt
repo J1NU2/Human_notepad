@@ -31,3 +31,33 @@ Bootstrap 5 Flex
 > Align Content : 시작(.align-content-start) 끝(.align-content-end) 중앙(.align-content-center) 일정간격(.align-content-around) 채우기(.align-content-stretch)
 > Align Items : 시작(.align-items-start) 끝(.align-items-end) 중앙(.align-items-center) 기준점(.align-items-baseline) 늘리기(.align-items-stretch)
 >> 특정 요소만 지정하고 싶다면 .align-self- 사용
+
+Bootstrap 5 Forms
+- 클래스가 있는 <input> <textarea> 요소는 .form-control 사용
+- <label> 요소는 .form-label 사용
+- 비활성 disabled / 읽기전용 readonly
+- 색상 선택 : .form-control-color
+
+Bootstrap 5 Select
+- 일반 선택 : .form-select
+- 다중 선택 : multiple
+- 비활성 : disabled
+- 데이터 형태의 목록 : <datalist>
+
+Bootstrap 5 Check & Radio
+- <div> .form-check
+- <input> .form-check-input / <label> .form-check-label
+- 체크박스 : type="checkbox" / 라디오 : type="radio"
+- 토글 형식의 스위치 : .form-switch
+
+Bootstrap 5 Input Groups
+- 입력 필드 앞/뒤에 도움말 텍스트(아이콘,텍스트,버튼 등)를 추가하는 컨테이너 : .input-group-text
+
+Bootstrap 5 Form Floating Labels
+- 입력 라벨 텍스트가 레이블 위에 표기 : .form-floating
+
+Bootstrap 5 Form Validation : 양식 검증
+- 필수 입력 : required
+- <form> .was-validated
+- 입력 성공 시 : .valid-feedback
+- 입력 피드백 : .invalid-feedback
